@@ -64,7 +64,7 @@ public class UserInterfaceApp extends JFrame {
             @Override
             public void actionPerformed(ActionEvent e) {
                 if (!gameStarted) {
-                    statusLabel.setText("Start the game first!");
+                    statusLabel.setText("Start the game first!!!");
                     return;
                 }
 
